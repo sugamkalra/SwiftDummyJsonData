@@ -15,6 +15,7 @@
 		15154E3B1C31171700591866 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15154E391C31171700591866 /* LaunchScreen.storyboard */; };
 		15154E461C31171700591866 /* SwiftyDummyJsonDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15154E451C31171700591866 /* SwiftyDummyJsonDataTests.swift */; };
 		15154E511C31171700591866 /* SwiftyDummyJsonDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15154E501C31171700591866 /* SwiftyDummyJsonDataUITests.swift */; };
+		15154E601C31173600591866 /* helps.json in Resources */ = {isa = PBXBuildFile; fileRef = 15154E5F1C31173600591866 /* helps.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		15154E4C1C31171700591866 /* SwiftyDummyJsonDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftyDummyJsonDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		15154E501C31171700591866 /* SwiftyDummyJsonDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyDummyJsonDataUITests.swift; sourceTree = "<group>"; };
 		15154E521C31171700591866 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15154E5F1C31173600591866 /* helps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = helps.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		15154E2C1C31171700591866 /* SwiftyDummyJsonData */ = {
 			isa = PBXGroup;
 			children = (
+				15154E5E1C31171D00591866 /* DummyJson */,
 				15154E2D1C31171700591866 /* AppDelegate.swift */,
 				15154E2F1C31171700591866 /* ViewController.swift */,
 				15154E311C31171700591866 /* Main.storyboard */,
@@ -126,6 +129,14 @@
 				15154E521C31171700591866 /* Info.plist */,
 			);
 			path = SwiftyDummyJsonDataUITests;
+			sourceTree = "<group>";
+		};
+		15154E5E1C31171D00591866 /* DummyJson */ = {
+			isa = PBXGroup;
+			children = (
+				15154E5F1C31173600591866 /* helps.json */,
+			);
+			name = DummyJson;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,6 +245,7 @@
 			files = (
 				15154E3B1C31171700591866 /* LaunchScreen.storyboard in Resources */,
 				15154E381C31171700591866 /* Assets.xcassets in Resources */,
+				15154E601C31173600591866 /* helps.json in Resources */,
 				15154E331C31171700591866 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

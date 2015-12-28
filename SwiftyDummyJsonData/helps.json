@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "title": "Core Lab ",
+             "content": "Where each core sample of gross cane is weighed, pressed,\npressed, the juice analyzed, and the bagasse dried."
+        },
+        {
+             "title": "% Sediment",
+             "content": "The amount of soil and other insoluble solids in the cane juice.\nIt also approximates the amount of soil in the gross cane.\nDry Sediment (80%fiber) has a very deleterious effect on Cane Fiber."
+        },
+        {
+             "title": "Adjusted Grams Bagasse",
+             "content": "The weighed amount of bagasse (cane plus leaves, tops, grass, sediment) remaining after\npressing the sample. TRS is based on two opposing components:\n weight and quality of juice vs weight and quality of bagasse."
+        },
+        {
+             "title": "Pol Reading",
+             "content": "A measurement of sucrose using a polarimeter."
+        },
+        {
+             "title": "Moisture % Bagasse",
+             "content": "Moisture determined by drying the bagasse sample in an oven. Used to calculate Fiber."
+        },
+        {
+             "title": "Juice Brix",
+             "content": "The amount of all soluble solids (sugars and non-sugars) dissolved in the cane juice."
+        },
+        {
+            "title": "Juice Pol",
+             "content": "Percentage of sucrose in the juice; used instead of 'sucrose' to denote determination by\npolarimeter. A one point decrease in juice pol decreases\n TRS by 15 lbs. Pol is the single most important factor in determining TRS."
+        },
+        {
+             "title": "Juice Purity",
+             "content": "How much of the brix is pure sucrose."
+        },
+        {
+             "title": "Fibraque",
+             "content": "Amount of Fiber in the gross cane. Includes all extraneous material.\nNet cane fibercan range anywhere from 10-15% depending on variety\nand crop cycle. Soil (80% fiber), leaves (50% fiber), tops (20% fiber), plus\n roots and grass all increase fiber. The second most important\n factor effecting TRS."
+        },
+        {
+             "title": "Cane: Brix, Pol, Fibrq",
+             "content": "Qualities expressed as percentage of the gross cane delivered."
+        },
+        {
+             "title": "Gross cane",
+             "content": "Cane as delivered including trash (leaves, tops, roots, grass, sediment)"
+        },
+        {
+             "title": "Net cane",
+             "content": "Cane free of trash"
+        },
+        {
+            "title": "Statistical Note",
+             "content": "Gross Sugarcane as delivered is not a very homogenous material.\nThe statistical error of any given sample is 7% on average.\nThis drops to 3.5% for 4 samples,\n and 0.84% for 70 samples.\nA grower with just 3 samples per day on a 100 day crop would have a statistical error of only 0.40%,\n or less than one pound of sugar."
+             }
+    ]
+}
